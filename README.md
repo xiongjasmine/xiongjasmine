@@ -1,9 +1,8 @@
-### Hi there! 🥑✨
-
-I’m Jasmine 🧸 (she/her) and I’m a computer science student at the University of Waterloo. I love trying new foods, taking afternoon walks, and watching YouTube. 🧋
-
-I’m currently exploring different roles and careers, and aspire to work in the tech industry in the future. 🤸📱
-
+### hi i'm jasmine! 🧸✨
+- computer science student @ university of waterloo
+- love trying new foods, reading manga, and touching grass
+- typing speed: 67 wpm
+- always exploring new things
 <!--
 **xiongjasmine/xiongjasmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
